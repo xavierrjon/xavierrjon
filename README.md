@@ -3,7 +3,13 @@
 **`Estudante de Engenharia de Software`**<br>
 **`Focado em Desenvolvimento Web`**
 
-Tenho maior interesse em **frontend e construção de interfaces**, buscando desenvolver aplicações **responsivas, bem estruturadas e com boa experiência para o usuário**. Também estudo **backend e banco de dados**, o que me permite entender e desenvolver **aplicações web completas**. Possuo experiência em **design gráfico** o que contribui para criar interfaces mais organizadas, intuitivas e visualmente equilibradas.
+Estudante de Engenharia de Software na Universidade Federal do Amazonas, atualmente no 5˚ período.
+
+Tenho maior interesse em **frontend e construção de interfaces**, buscando desenvolver aplicações **responsivas, bem estruturadas e com boa experiência para o usuário**. 
+
+Também estudo **backend e banco de dados**, o que me permite entender e desenvolver **aplicações web completas**. 
+
+Possuo experiência em **design gráfico** o que contribui para criar interfaces mais organizadas, intuitivas e visualmente equilibradas.
 
 ---
 
