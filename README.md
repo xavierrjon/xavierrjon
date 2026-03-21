@@ -16,7 +16,7 @@ Tenho experiência em design gráfico, contribuindo para interfaces mais organiz
 ### 🤖 Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongodb,sqlite,git,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,sqlite,git,figma,linux" />
 </div>
 
 ---
