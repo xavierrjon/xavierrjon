@@ -3,13 +3,9 @@
 **`Estudante de Engenharia de Software`**<br>
 **`Focado em Desenvolvimento Web`**
 
-Estudante de Engenharia de Software na Universidade Federal do Amazonas (UFAM), atualmente no 5º período.
+Sou estudante de Engenharia de Software na Universidade Federal do Amazonas, atualmente no 5º período, com foco em desenvolvimento web, especialmente na área de front-end.
 
-Tenho foco em frontend e no desenvolvimento de interfaces, criando aplicações responsivas, bem estruturadas e orientadas à experiência do usuário.
-
-Também possuo conhecimentos em backend e banco de dados, o que me permite desenvolver soluções web completas.
-
-Tenho experiência em design gráfico, contribuindo para interfaces mais organizadas, intuitivas e visualmente equilibradas.
+Tenho conhecimentos em backend, banco de dados e design gráfico, o que me permite desenvolver aplicações web completas, bem estruturadas e voltadas à experiência do usuário.
 
 ---
 
