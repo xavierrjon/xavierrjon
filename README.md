@@ -20,6 +20,6 @@ Tenho conhecimentos em backend, banco de dados e design gráfico, o que me permi
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xavierrjon&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Johnny Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierrjon&theme=github_dark&layout=compact&hide_border=true&langs_count=8&locale=pt-br" alt="Johnny Top Langs"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xavierrjon&theme=github_dark" alt="Johnny Stats"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xavierrjon&theme=github_dark" alt="Johnny Top Langs"/>
 </p>
