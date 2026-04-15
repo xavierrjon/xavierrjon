@@ -21,5 +21,4 @@ Tenho conhecimentos em backend, banco de dados e design gráfico, o que me permi
 
 <p align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xavierrjon&theme=github_dark" alt="Johnny Stats"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xavierrjon&theme=github_dark" alt="Johnny Top Langs"/>
 </p>
