@@ -3,9 +3,7 @@
 **`Estudante de Engenharia de Software`**<br>
 **`Focado em Desenvolvimento Web`**
 
-Sou estudante de Engenharia de Software na Universidade Federal do Amazonas, atualmente no 5º período, com foco em desenvolvimento web, especialmente na área de front-end.
-
-Tenho conhecimentos em backend, banco de dados e design gráfico, o que me permite desenvolver aplicações web completas, bem estruturadas e voltadas à experiência do usuário.
+Estudante do 5º período de Engenharia de Software e entusiasta de UI/UX Design. Atualmente, faço parte do Web Academy, um curso de capacitação em desenvolvimento Web Fullstack promovido pelo IComp/Ufam e pela Motorola, onde busco integrar a lógica do código à criação de interfaces intuitivas e centradas no usuário.
 
 ---
 
@@ -19,6 +17,6 @@ Tenho conhecimentos em backend, banco de dados e design gráfico, o que me permi
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xavierrjon&theme=github_dark" alt="Johnny Stats"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierrjon&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas de Johnny Xavier" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierrjon&show_icons=true&theme=dark&locale=pt-br&layout=compact&hide=PowerShell" alt="Linguagens mais usadas de Johnny Xavier" /></p>
