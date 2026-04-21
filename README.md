@@ -1,7 +1,8 @@
 # 👨🏻‍💻 Olá, eu sou Johnny Xavier
-**`Focado em Desenvolvimento Web`**
+**`Desenvolvedor Front-End`** <br>
+**`Estudante de Engenharia de Software`**
 
-Estudante do 5º período de Engenharia de Software e entusiasta de UI/UX Design. Atualmente, faço parte do Web Academy, um programa de capacitação em desenvolvimento web fullstack promovido pelo IComp/Ufam em parceria com a Motorola, onde busco integrar a lógica do código à criação de interfaces intuitivas e centradas no usuário.
+Estudante de Engenharia de Software na UFAM, atualmente no 5º período, com foco em desenvolvimento Front-End. Possuo experiência prévia com design gráfico, o que fortalece meu interesse por UI/UX e pela criação de interfaces centradas no usuário. Atualmente, participo do programa de capacitação em desenvolvimento web fullstack chamado WebAcademy (IComp/UFAM em parceria com a Motorola).
 
 ---
 
