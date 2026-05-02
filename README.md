@@ -1,4 +1,5 @@
-# 👨🏻‍💻 Olá, eu sou Johnny Xavier
+![Capa - Johnny Xavier](assets/capa-github.png)
+
 **`Desenvolvedor Front-End`** <br>
 **`Estudante de Engenharia de Software`**
 
@@ -6,7 +7,7 @@ Estudante de Engenharia de Software na UFAM, atualmente no 5º período, com foc
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,sqlite,git,figma,linux" />
@@ -14,7 +15,7 @@ Estudante de Engenharia de Software na UFAM, atualmente no 5º período, com foc
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierrjon&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas de Johnny Xavier" /></p>
 
