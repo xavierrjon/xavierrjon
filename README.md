@@ -1,4 +1,4 @@
-![Capa - Johnny Xavier](assets/capa-github.png)
+![Gif - Capa Johnny Xavier](assets/johnny-xavier%20(4).gif)
 
 **`Desenvolvedor Frontend`** <br>
 **`UI/UX Designer`** <br>
