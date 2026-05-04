@@ -11,5 +11,5 @@ Estudante de Engenharia de Software na UFAM, atualmente no 5º período, com foc
 ---
 
 <div align="center">
-  <img width="450px" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,sqlite,git,figma,linux" />
+  <img width="450px" src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,nodejs,python,mongodb,sqlite,git,figma,linux" />
 </div>
