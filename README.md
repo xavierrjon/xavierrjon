@@ -1,7 +1,6 @@
-![Gif - Capa Johnny Xavier](assets/johnny-xavier%20(4).gif)
+![Gif - Capa Johnny Xavier](assets/johnny-xavier-video%20(1).gif)
 
-**`Desenvolvedor Frontend`** <br>
-**`UI/UX Designer`** <br>
+**`Desenvolvedor Frontend | UI/UX`** <br>
 **`Estudante de Engenharia de Software`**
 
 ---
